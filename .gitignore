@@ -1,4 +1,36 @@
-xLightsCompanion.xml
+Test Layout/xlights_keybindings.xml
+Test Layout/xlights_networks.xml
+Test Layout/xlights_rgbeffects
+Test Layout/xlights_rgbeffects - Copy.xml
+Test Layout/xlights_rgbeffects.bkp
+Test Layout/xlights_rgbeffects.xml
+Test Layout/xLightsCompanion.xml
+Test Layout/Backup/2022-09-09-103548_OnStart/xlights_keybindings.xml
+Test Layout/Backup/2022-09-09-103548_OnStart/xlights_networks.xml
+Test Layout/Backup/2022-09-09-103548_OnStart/xlights_rgbeffects.xml
+Test Layout/Backup/2022-09-09-110734_OnStart/xlights_keybindings.xml
+Test Layout/Backup/2022-09-09-110734_OnStart/xlights_networks.xml
+Test Layout/Backup/2022-09-09-110734_OnStart/xlights_rgbeffects.xml
+Test Layout/Backup/2022-09-10-010634_OnStart/xlights_keybindings.xml
+Test Layout/Backup/2022-09-10-010634_OnStart/xlights_networks.xml
+Test Layout/Backup/2022-09-10-010634_OnStart/xlights_rgbeffects.xml
+Test Layout/Backup/2022-09-10-010634_OnStart/xLightsCompanion.xml
+Test Layout/Backup/2022-09-19-221819_OnStart/xlights_keybindings.xml
+Test Layout/Backup/2022-09-19-221819_OnStart/xlights_networks.xml
+Test Layout/Backup/2022-09-19-221819_OnStart/xlights_rgbeffects - Copy.xml
+Test Layout/Backup/2022-09-19-221819_OnStart/xlights_rgbeffects.xml
+Test Layout/Backup/2022-09-19-221819_OnStart/xLightsCompanion.xml
+Test Layout/Backup/2022-09-20-160951_OnStart/xlights_keybindings.xml
+Test Layout/Backup/2022-09-20-160951_OnStart/xlights_networks.xml
+Test Layout/Backup/2022-09-20-160951_OnStart/xlights_rgbeffects - Copy.xml
+Test Layout/Backup/2022-09-20-160951_OnStart/xlights_rgbeffects.xml
+Test Layout/Backup/2022-09-20-160951_OnStart/xLightsCompanion.xml
+Test Layout/Backup/2022-09-20-161916_OnStart/xlights_keybindings.xml
+Test Layout/Backup/2022-09-20-161916_OnStart/xlights_networks.xml
+Test Layout/Backup/2022-09-20-161916_OnStart/xlights_rgbeffects - Copy.xml
+Test Layout/Backup/2022-09-20-161916_OnStart/xlights_rgbeffects.xml
+Test Layout/Backup/2022-09-20-161916_OnStart/xLightsCompanion.xml
+Test Layout/xScheduleData/GetModels.dat
 Backups/xLights/2022_09_20_15_36/xlights_rgbeffects.xLightsCompanion.bkp
 Backups/xLights/2022_09_20_15_38/xlights_rgbeffects.xLightsCompanion.bkp
 Backups/xLights/2022_09_20_15_51/xlights_rgbeffects.xLightsCompanion.bkp
@@ -19,31 +51,4 @@ Backups/xLightsCompanion/2022_09_20_16_08/xLightsCompanion.xLightsCompanion.bkp
 Backups/xLightsCompanion/2022_09_20_16_11/xLightsCompanion.xLightsCompanion.bkp
 Backups/xLightsCompanion/2022_09_20_16_13/xLightsCompanion.xLightsCompanion.bkp
 Backups/xLightsCompanion/2022_09_20_16_18/xLightsCompanion.xLightsCompanion.bkp
-Test Layout/xlights_keybindings.xml
-Test Layout/xlights_networks.xml
-Test Layout/xlights_rgbeffects
-Test Layout/xlights_rgbeffects - Copy.xml
-Test Layout/xlights_rgbeffects.bkp
-Test Layout/xlights_rgbeffects.xml
-Test Layout/Backup/2022-09-09-103548_OnStart/xlights_keybindings.xml
-Test Layout/Backup/2022-09-09-103548_OnStart/xlights_networks.xml
-Test Layout/Backup/2022-09-09-103548_OnStart/xlights_rgbeffects.xml
-Test Layout/Backup/2022-09-09-110734_OnStart/xlights_keybindings.xml
-Test Layout/Backup/2022-09-09-110734_OnStart/xlights_networks.xml
-Test Layout/Backup/2022-09-09-110734_OnStart/xlights_rgbeffects.xml
-Test Layout/Backup/2022-09-10-010634_OnStart/xlights_keybindings.xml
-Test Layout/Backup/2022-09-10-010634_OnStart/xlights_networks.xml
-Test Layout/Backup/2022-09-10-010634_OnStart/xlights_rgbeffects.xml
-Test Layout/Backup/2022-09-19-221819_OnStart/xlights_keybindings.xml
-Test Layout/Backup/2022-09-19-221819_OnStart/xlights_networks.xml
-Test Layout/Backup/2022-09-19-221819_OnStart/xlights_rgbeffects - Copy.xml
-Test Layout/Backup/2022-09-19-221819_OnStart/xlights_rgbeffects.xml
-Test Layout/Backup/2022-09-20-160951_OnStart/xlights_keybindings.xml
-Test Layout/Backup/2022-09-20-160951_OnStart/xlights_networks.xml
-Test Layout/Backup/2022-09-20-160951_OnStart/xlights_rgbeffects - Copy.xml
-Test Layout/Backup/2022-09-20-160951_OnStart/xlights_rgbeffects.xml
-Test Layout/Backup/2022-09-20-161916_OnStart/xlights_keybindings.xml
-Test Layout/Backup/2022-09-20-161916_OnStart/xlights_networks.xml
-Test Layout/Backup/2022-09-20-161916_OnStart/xlights_rgbeffects - Copy.xml
-Test Layout/Backup/2022-09-20-161916_OnStart/xlights_rgbeffects.xml
-Test Layout/xScheduleData/GetModels.dat
+xLightsCompanion.xml
