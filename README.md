@@ -1,1 +1,2 @@
-# xLightsCompanion
+# xLights Companion
+
