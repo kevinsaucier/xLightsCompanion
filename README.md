@@ -2,9 +2,13 @@
 
 This is a very basic attempt to help with layout management in xLights.  All written in PowerShell (minus the batch file to start it).  It relies on Windows Forms and is written in a scripting language so it's not the quickest, but it seems to work.
 
-Quick overview:
-
 - There are a few parameters you can set within the top 30 or so lines of xLights-Main.ps1.  If you don't need to change them, you probably shouldn't.  
+
+- Does this work on Mac?  No idea.  If PowerShell works, it might.  If you want to send me a Mac to try with, I'd be happy to check it out.
+
+
+
+Quick(ish) overview:
 
 1. Upon opening, you'll need to choose your show folder.  DO NOT POINT THIS AT YOUR PRODUCTION SHOW FOLDER!  Make a copy of the xlights_rgbeffects.xml and xlights_networks.xml files and place them in a folder (I use a folder called 'Test Layout' under the xLight Companion script folder).  xLights Companion does not (currently) mess with the networks file, but having it there will let you run xLights later and test the new config.
 
