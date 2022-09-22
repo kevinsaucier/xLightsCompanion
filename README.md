@@ -2,7 +2,9 @@
 
 This is a very basic attempt to help with layout management in xLights.  All written in PowerShell (minus the batch file to start it).  It relies on Windows Forms and is written in a scripting language so it's not the quickest, but it seems to work.
 
-- There are a few parameters you can set within the top 30 or so lines of xLights-Main.ps1.  If you don't need to change them, you probably shouldn't.  
+- There are a few parameters you can set within the top 30 or so lines of xLights-Main.ps1.  If you don't need to change them, you probably shouldn't.
+    - One parameter in the file is strFormHeader .  Change 'Your Show Name' to whatever you'd like the header on the window to be.  I use 'Lights On Lynn'.
+    - You'll also see the 'Image-ShowLogo.png' file in the folder.  Add your shows's logo to the folder using this file name and it will show up in the GUI.  I've left mine as the default cause, well, it's better than nothing.  :)
 
 - Does this work on Mac?  No idea.  If PowerShell works, it might.  If you want to send me a Mac to try with, I'd be happy to check it out.
 
